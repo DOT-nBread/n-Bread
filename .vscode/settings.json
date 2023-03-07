@@ -1,0 +1,19 @@
+{
+	"cSpell.words": [
+		"cofound",
+		"memberid",
+		"NEXTAUTH",
+		"Pretendard",
+		"signup",
+		"stackflow",
+		"tanstack"
+	],
+	"search.exclude": {
+		"**/.yarn": true,
+		"**/.pnp.*": true
+	},
+	"eslint.nodePath": "node_modules/eslint/lib",
+	"typescript.tsdk": "node_modules/typescript/lib",
+  "prettier.prettierPath": "node_modules/prettier",
+	"typescript.enablePromptUseWorkspaceTsdk": true
+}
