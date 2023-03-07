@@ -1,8 +1,9 @@
 import type { NextPage } from "next";
 import HomeView from "@/domains/home";
+import LoginPage from "@/domains/login";
 
 const Home: NextPage = () => {
-	return <HomeView />;
+	return <LoginPage />;
 };
 
 export default Home;
