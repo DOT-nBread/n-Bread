@@ -16,6 +16,9 @@ const GlobalStyle = () => (
 			#__next {
 				height: 100vh;
 			}
+			a {
+				text-decoration: none;
+			}
 		`}
 	/>
 );
